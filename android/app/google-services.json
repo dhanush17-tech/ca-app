@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "648526360807",
+    "project_id": "ca-appoinment",
+    "storage_bucket": "ca-appoinment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648526360807:android:7664b906272d10acc17242",
+        "android_client_info": {
+          "package_name": "com.example.ca_appoinment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpBfdw_BeTQr6X7NPBBddT-or_E_uHdSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
